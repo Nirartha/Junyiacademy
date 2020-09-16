@@ -27,5 +27,8 @@
   <ItemGroup>
     <Compile Include="Junyiacademy.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Question 3 and 4.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
